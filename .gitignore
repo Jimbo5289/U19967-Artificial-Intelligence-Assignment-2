@@ -1,0 +1,18 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# data / outputs (do not commit Blackboard dataset)
+data/
+dataset/
+outputs/
+runs/
+kt_dir/
+
+# models
+models/
+*.h5
+*.keras
+*.ckpt
+*.pt
+*.pth
